@@ -24,7 +24,7 @@ OneDrive-SafeRemove est un script PowerShell interactif permettant de sauvegarde
    - Vérifier la sauvegarde existante.
    - Sauvegarder le contenu de OneDrive.
    - Désinstaller OneDrive et bloquer sa réinstallation.
-3. Le chemin de sauvegarde par défaut est `C:Sauvegarde contenu OneDrive`, modifiable dans le script.
+3. Le chemin de sauvegarde par défaut est `C:\Sauvegarde contenu OneDrive`, modifiable dans le script.
 
 ## Sécurité et précautions
 
